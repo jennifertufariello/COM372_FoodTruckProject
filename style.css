@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Rokkitt);
+
+h1{
+  font-family:'Indie Flower',cursive;
+  font-size: 2em;
+  margin:2.5px;
+}
+
+h2{
+  font-family: 'Indie Flower', cursive;
+}
+
+#contentinfo{
+  margin: 1px 175px;
+  background-color: Gray; color: Navy;
+  padding: 60px 70px;
+  padding-left: 60px;
+  padding-right: 60px;
+  font-family:'Rokkitt',normal;font-size: 22.4px;
+}
+
+body {
+  background-image: url(Images/dc2342_aztec.gif);
+  image: url(Images/white_beans.jpg);
+  margin: 0px;
+  padding: 0px;
+}
